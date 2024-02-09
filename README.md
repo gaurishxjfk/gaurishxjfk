@@ -35,6 +35,8 @@ Here are some of the projects I'm currently working on or have recently complete
    - F1 Calender is bascially web scrapping project created in Next.js to get schedule of formula one championship
    - https://github.com/gaurishxjfk/web-scrapping-next-js
    - Demo : https://f1calender.vercel.app/
+  
+
 Feel free to explore and provide feedback on any of my projects! Contributions and suggestions are always welcome.
 
 ## Technologies I Work With
