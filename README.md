@@ -29,7 +29,7 @@ Here are some of the projects I'm currently working on or have recently complete
 3. CabBuddy
    - "CabBuddy" is a small project allows user to add destination, select and book cabs.
    - [//github.com/gaurishxjfk/bookMySeat](https://github.com/gaurishxjfk/Cabbuddy)
-   - Demo: [https://bookmyseat.vercel.app/](https://cabbuddy.vercel.app/)
+   - Demo: [https://cabbuddy.vercel.app/](https://cabbuddy.vercel.app/)
      
 3. F1 Calender 
    - F1 Calender is bascially web scrapping project created in Next.js to get schedule of formula one championship
