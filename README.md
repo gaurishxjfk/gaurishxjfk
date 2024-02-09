@@ -26,10 +26,10 @@ Here are some of the projects I'm currently working on or have recently complete
    - https://github.com/gaurishxjfk/MealMate-food-ordering-site-NextJS
    - Demo: https://mealmate.vercel.app/
 
-3. Book My Seat
-   - "Book My Seat" is a small project designed to enhance the office workspace experience by allowing users to reserve cubicles effortlessly.
-   - https://github.com/gaurishxjfk/bookMySeat
-   - Demo: https://bookmyseat.vercel.app/
+3. CabBuddy
+   - "CabBuddy" is a small project allows user to add destination, select and book cabs.
+   - [//github.com/gaurishxjfk/bookMySeat](https://github.com/gaurishxjfk/Cabbuddy)
+   - Demo: [https://bookmyseat.vercel.app/](https://cabbuddy.vercel.app/)
      
 3. F1 Calender 
    - F1 Calender is bascially web scrapping project created in Next.js to get schedule of formula one championship
