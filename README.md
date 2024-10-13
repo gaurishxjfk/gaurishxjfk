@@ -16,10 +16,11 @@ In addition to my work experience in development I have also dabbled in design w
 
 Here are some of the projects I'm currently working on or have recently completed:
 
-1. Cypress Workspaces
-   - This collaborative productivity platform is inspired by Notion, allowing users to create, update, and delete workspaces, folders, and files. Users can also add collaborators and work simultaneously in real-time.
-   - https://github.com/gaurishxjfk/notion-clone-cypress
-   - Demo: https://myworkspace.up.railway.app/
+1. Realtime Chattify
+   - This real-time chat application allows users to send and receive messages instantly. Built with React and TypeScript on the frontend and Node.js with Express on the backend, it ensures smooth and responsive communication. The app uses Drizzle ORM and Supabase for efficient data management in PostgreSQL. Real-time updates are powered by Socket.IO, enabling live conversations, while Clerk manages user authentication, providing a secure and seamless login experience.
+   - Frontend: https://github.com/gaurishxjfk/Real-TIme-Chat-App
+   - Backend: https://github.com/gaurishxjfk/Realtime-Chat-App-Backend
+   - Demo: https://realtime-chattify.vercel.app/
 
 2. MealMate
    - MealMate is a dynamic and modern food ordering site built with Next.js with admin dashboard functionalities.
